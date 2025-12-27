@@ -1,0 +1,16 @@
+target/
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+*.log
+.lein-repl-history
+.lein-failures
+.lein-plugins/
+.nrepl-port
+.cpcache/
+.idea/
+.vscode/
+*.iml
+.clj-kondo/
+.lsp/
